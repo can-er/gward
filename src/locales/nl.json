@@ -1,0 +1,164 @@
+{
+  "navbar": {
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "about": "Over ons",
+    "cta": "Vraag een gratis audit aan"
+  },
+  "hero": {
+    "headline": "Uw gevoelige gegevens, 24/7 beschermd",
+    "subheadline": "De Zwitserse cyberbeschermingsdienst voor bedrijven en kmo's. Geïnstalleerd in 15 minuten, continu bewaakt, gehost in Zwitserland.",
+    "ctaPrimary": "Vraag een gratis audit aan",
+    "ctaSecondary": "Bekijk hoe het werkt",
+    "badge1": "🇨🇭 Gehost in Zwitserland",
+    "badge2": "🔒 FADP Compliant",
+    "badge3": "⚡ Geïnstalleerd in 15 min"
+  },
+  "problem": {
+    "title": "Het risico dat u niet ziet",
+    "intro": "Uw IT-provider beheert uw computers. Maar wie controleert of niemand uw systemen infiltreert?",
+    "card1": {
+      "title": "Ransomware",
+      "desc": "Een programma versleutelt uw klantbestanden. Zonder monitoring ontdekt u het te laat."
+    },
+    "card2": {
+      "title": "Diefstal van gegevens",
+      "desc": "Een werknemer of aanvaller exfiltreert uw gevoelige gegevens. Zonder detectie ziet niemand het."
+    },
+    "card3": {
+      "title": "Niet-naleving",
+      "desc": "De FADP vereist beschermingsmaatregelen. Bent u klaar voor een audit?"
+    }
+  },
+  "solution": {
+    "title": "GWARD waakt over u",
+    "intro": "We bewaken uw systemen 24/7 zodat u nooit het volgende slachtoffer bent.",
+    "dashboard": {
+      "score": "Beveiligingsscore",
+      "protected": "Beschermde werkplekken",
+      "threats": "Actieve bedreigingen",
+      "actions": "Acties te ondernemen",
+      "activity": "Recente activiteit",
+      "alert1": "Geblokkeerde inlogpoging (Rusland)",
+      "alert2": "Gedragsanalyse: verdacht proces geïsoleerd",
+      "alert3": "Beveiligingsupdate aanbevolen"
+    }
+  },
+  "promises": {
+    "title": "6 beloften voor uw gemoedsrust",
+    "p1": {
+      "title": "Beschermd in 15 minuten",
+      "desc": "Download een bestand, dubbelklik, het is klaar. Geen technische vaardigheden vereist."
+    },
+    "p2": {
+      "title": "24/7 bewaakt, zelfs als u slaapt",
+      "desc": "Onze technologie analyseert continu elke gebeurtenis. Als er om 3 uur 's nachts iets abnormaals gebeurt, grijpen we in."
+    },
+    "p3": {
+      "title": "We blokkeren, we leggen uit, we adviseren",
+      "desc": "Geen onbegrijpelijke logboeken. U ontvangt een duidelijk bericht: wat er is gebeurd, wat we hebben gedaan, wat u moet controleren."
+    },
+    "p4": {
+      "title": "Uw beveiligingsscore, elke week",
+      "desc": "Een eenvoudig getal van 0 tot 100. U ziet uw voortgang en ontvangt concrete aanbevelingen."
+    },
+    "p5": {
+      "title": "Uw gegevens blijven in Zwitserland",
+      "desc": "Infrastructuur gehost in Genève bij Infomaniak. Geen gegevens passeren de Verenigde Staten."
+    },
+    "p6": {
+      "title": "Compliant voor de audit",
+      "desc": "FADP-, GDPR- en ISO 27001-nalevingsrapporten worden automatisch gegenereerd. Het dossier is klaar wanneer de auditor arriveert."
+    }
+  },
+  "socialProof": {
+    "quote": "In 2025 belde een advocatenkantoor uit Genève ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
+    "founder": "Oprichtster, GWARD",
+    "adopted": "Al geadopteerd door 50+ bedrijven in Franstalig Zwitserland"
+  },
+  "pricing": {
+    "title": "Eenvoudige en transparante prijzen",
+    "essential": {
+      "name": "ESSENTIEEL",
+      "target": "5-20 werkplekken",
+      "price": "39 CHF",
+      "priceSub": "/werkplek/maand (bèta: 29 CHF)",
+      "f1": "Agent op alle werkplekken (Windows, Mac, Linux)",
+      "f2": "24/7 monitoring met automatische triage",
+      "f3": "Detectie van ransomware, malware, phishing",
+      "f4": "Wekelijkse houdingsscore",
+      "f5": "Waarschuwingen in het Nederlands",
+      "f6": "Maandelijks PDF-rapport",
+      "f7": "E-mailondersteuning < 4u",
+      "f8": "Zonder verbintenis",
+      "cta": "Beginnen"
+    },
+    "pro": {
+      "name": "PRO",
+      "target": "20-200 werkplekken",
+      "price": "35 CHF",
+      "priceSub": "/werkplek/maand (volumekorting vanaf 100)",
+      "f1": "Alles in Essentieel +",
+      "f2": "Cloud-supervisie (M365, Google Workspace)",
+      "f3": "Geavanceerde detectie (AD-compromis, exfiltratie)",
+      "f4": "Gedragsanalyse",
+      "f5": "Nalevingsrapporten (FADP, GDPR, ISO 27001)",
+      "f6": "Telefonische ondersteuning 9u-18u",
+      "f7": "Begeleide onboarding",
+      "f8": "Verbintenis van 12 maanden",
+      "cta": "Neem contact op",
+      "badge": "Aanbevolen"
+    },
+    "enterprise": {
+      "name": "ENTERPRISE",
+      "target": "200+ werkplekken",
+      "price": "Op maat",
+      "priceSub": "Neem contact op",
+      "f1": "Alles in Pro +",
+      "f2": "Gegarandeerde SLA (detectie < 5 min)",
+      "f3": "24/7 stand-by",
+      "f4": "Maandelijkse threat hunting",
+      "f5": "Aangepaste integraties",
+      "f6": "Jaarlijkse pentest inbegrepen",
+      "cta": "Vraag een offerte aan"
+    }
+  },
+  "howItWorks": {
+    "title": "Hoe het werkt",
+    "step1": {
+      "title": "Installeer de agent",
+      "desc": "Download en installeer in 15 minuten op uw werkplekken. Geen configuratie."
+    },
+    "step2": {
+      "title": "Wij bewaken",
+      "desc": "Ons platform analyseert continu. U ziet uw score en waarschuwingen in realtime."
+    },
+    "step3": {
+      "title": "Wij beschermen",
+      "desc": "Bedreiging gedetecteerd? We blokkeren, we leggen uit, we adviseren. U slaapt rustig."
+    }
+  },
+  "ctaSection": {
+    "title": "Klaar om uw bedrijf te beschermen?",
+    "subtext": "Vraag een gratis audit van 15 minuten aan. We evalueren uw beschermingsniveau en u ontvangt uw eerste score.",
+    "cta": "Vraag mijn gratis audit aan",
+    "reassurance": "Gratis, zonder verbintenis, 15 minuten"
+  },
+  "footer": {
+    "tagline": "continue bewaking",
+    "product": "Product",
+    "company": "Bedrijf",
+    "legal": "Legaal",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "security": "Beveiliging",
+    "about": "Over ons",
+    "contact": "Contact",
+    "blog": "Blog",
+    "privacy": "Privacybeleid",
+    "terms": "Servicevoorwaarden",
+    "legalNotice": "Juridische kennisgeving",
+    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "hosted": "Gehost in Zwitserland 🇨🇭"
+  }
+}

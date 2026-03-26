@@ -1,0 +1,164 @@
+{
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "cta": "Request a free audit"
+  },
+  "hero": {
+    "headline": "Your sensitive data, protected 24/7",
+    "subheadline": "The Swiss cyber protection service for firms and SMBs. Installed in 15 minutes, continuously monitored, hosted in Switzerland.",
+    "ctaPrimary": "Request a free audit",
+    "ctaSecondary": "See how it works",
+    "badge1": "🇨🇭 Hosted in Switzerland",
+    "badge2": "🔒 FADP Compliant",
+    "badge3": "⚡ Installed in 15 min"
+  },
+  "problem": {
+    "title": "The risk you don't see",
+    "intro": "Your IT provider manages your computers. But who monitors that no one infiltrates your systems?",
+    "card1": {
+      "title": "Ransomware",
+      "desc": "A program encrypts your client files. Without monitoring, you discover it too late."
+    },
+    "card2": {
+      "title": "Data theft",
+      "desc": "An employee or attacker exfiltrates your sensitive data. Without detection, no one sees it."
+    },
+    "card3": {
+      "title": "Non-compliance",
+      "desc": "The FADP requires protection measures. In case of an audit, are you ready?"
+    }
+  },
+  "solution": {
+    "title": "GWARD watches over you",
+    "intro": "We monitor your systems 24/7 so you are never the next victim.",
+    "dashboard": {
+      "score": "Security Score",
+      "protected": "Protected endpoints",
+      "threats": "Active threats",
+      "actions": "Actions to take",
+      "activity": "Recent activity",
+      "alert1": "Blocked login attempt (Russia)",
+      "alert2": "Behavioral analysis: suspicious process isolated",
+      "alert3": "Security update recommended"
+    }
+  },
+  "promises": {
+    "title": "6 commitments for your peace of mind",
+    "p1": {
+      "title": "Protected in 15 minutes",
+      "desc": "Download a file, double-click, it's done. No technical skills required."
+    },
+    "p2": {
+      "title": "Monitored 24/7, even when you sleep",
+      "desc": "Our technology continuously analyzes every event. If something abnormal happens at 3 AM, we act."
+    },
+    "p3": {
+      "title": "We block, we explain, we recommend",
+      "desc": "No incomprehensible logs. You receive a clear message: what happened, what we did, what to check."
+    },
+    "p4": {
+      "title": "Your security score, every week",
+      "desc": "A simple number from 0 to 100. You see your progress and receive concrete recommendations."
+    },
+    "p5": {
+      "title": "Your data stays in Switzerland",
+      "desc": "Infrastructure hosted in Geneva at Infomaniak. No data transits through the United States."
+    },
+    "p6": {
+      "title": "Compliant before the audit",
+      "desc": "FADP, GDPR, and ISO 27001 compliance reports generated automatically. The file is ready when the auditor arrives."
+    }
+  },
+  "socialProof": {
+    "quote": "In 2025, a Geneva law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
+    "founder": "Founder, GWARD",
+    "adopted": "Already adopted by 50+ firms in French-speaking Switzerland"
+  },
+  "pricing": {
+    "title": "Simple and transparent pricing",
+    "essential": {
+      "name": "ESSENTIAL",
+      "target": "5-20 endpoints",
+      "price": "39 CHF",
+      "priceSub": "/endpoint/month (beta: 29 CHF)",
+      "f1": "Agent on all endpoints (Windows, Mac, Linux)",
+      "f2": "24/7 monitoring with automatic triage",
+      "f3": "Ransomware, malware, phishing detection",
+      "f4": "Weekly posture score",
+      "f5": "Alerts in English",
+      "f6": "Monthly PDF report",
+      "f7": "Email support < 4h",
+      "f8": "No commitment",
+      "cta": "Get started"
+    },
+    "pro": {
+      "name": "PRO",
+      "target": "20-200 endpoints",
+      "price": "35 CHF",
+      "priceSub": "/endpoint/month (volume discount from 100)",
+      "f1": "Everything in Essential +",
+      "f2": "Cloud supervision (M365, Google Workspace)",
+      "f3": "Advanced detection (AD compromise, exfiltration)",
+      "f4": "Behavioral analysis",
+      "f5": "Compliance reports (FADP, GDPR, ISO 27001)",
+      "f6": "Phone support 9am-6pm",
+      "f7": "Guided onboarding",
+      "f8": "12-month commitment",
+      "cta": "Contact us",
+      "badge": "Recommended"
+    },
+    "enterprise": {
+      "name": "ENTERPRISE",
+      "target": "200+ endpoints",
+      "price": "Custom",
+      "priceSub": "Contact us",
+      "f1": "Everything in Pro +",
+      "f2": "Guaranteed SLA (detection < 5 min)",
+      "f3": "24/7 on-call",
+      "f4": "Monthly threat hunting",
+      "f5": "Custom integrations",
+      "f6": "Annual pentest included",
+      "cta": "Request a quote"
+    }
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "step1": {
+      "title": "Install the agent",
+      "desc": "Download and install in 15 minutes on your endpoints. No configuration."
+    },
+    "step2": {
+      "title": "We monitor",
+      "desc": "Our platform analyzes continuously. You see your score and alerts in real time."
+    },
+    "step3": {
+      "title": "We protect",
+      "desc": "Threat detected? We block, we explain, we recommend. You sleep peacefully."
+    }
+  },
+  "ctaSection": {
+    "title": "Ready to protect your firm?",
+    "subtext": "Request a free 15-minute audit. We evaluate your protection level and you receive your first score.",
+    "cta": "Request my free audit",
+    "reassurance": "Free, no commitment, 15 minutes"
+  },
+  "footer": {
+    "tagline": "continuous surveillance",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "security": "Security",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "legalNotice": "Legal Notice",
+    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "hosted": "Hosted in Switzerland 🇨🇭"
+  }
+}

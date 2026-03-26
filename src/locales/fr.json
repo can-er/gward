@@ -1,0 +1,164 @@
+{
+  "navbar": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "cta": "Demander un audit gratuit"
+  },
+  "hero": {
+    "headline": "Vos données sensibles, protégées 24/7",
+    "subheadline": "Le service de cyberprotection suisse pour les cabinets et les PME. Installé en 15 minutes, surveillé en continu, hébergé en Suisse.",
+    "ctaPrimary": "Demander un audit gratuit",
+    "ctaSecondary": "Voir comment ça marche",
+    "badge1": "🇨🇭 Hébergé en Suisse",
+    "badge2": "🔒 Conforme LPD",
+    "badge3": "⚡ Installé en 15 min"
+  },
+  "problem": {
+    "title": "Le risque que vous ne voyez pas",
+    "intro": "Votre prestataire IT gère vos ordinateurs. Mais qui surveille que personne ne s'infiltre dans vos systèmes ?",
+    "card1": {
+      "title": "Ransomware",
+      "desc": "Un programme chiffre vos dossiers clients. Sans surveillance, vous le découvrez trop tard."
+    },
+    "card2": {
+      "title": "Vol de données",
+      "desc": "Un employé ou un attaquant exfiltre vos données sensibles. Sans détection, personne ne le voit."
+    },
+    "card3": {
+      "title": "Non-conformité",
+      "desc": "La LPD exige des mesures de protection. En cas d'audit, êtes-vous prêt ?"
+    }
+  },
+  "solution": {
+    "title": "GWARD veille pour vous",
+    "intro": "On surveille vos systèmes 24/7 pour que vous ne soyez jamais la prochaine victime.",
+    "dashboard": {
+      "score": "Score de sécurité",
+      "protected": "Postes protégés",
+      "threats": "Menaces actives",
+      "actions": "Actions à faire",
+      "activity": "Activité récente",
+      "alert1": "Tentative de connexion bloquée (Russie)",
+      "alert2": "Analyse comportementale : processus suspect isolé",
+      "alert3": "Mise à jour de sécurité recommandée"
+    }
+  },
+  "promises": {
+    "title": "6 engagements pour votre sérénité",
+    "p1": {
+      "title": "Protégé en 15 minutes",
+      "desc": "Téléchargez un fichier, double-cliquez, c'est fait. Aucune compétence technique requise."
+    },
+    "p2": {
+      "title": "Surveillé 24/7, même quand vous dormez",
+      "desc": "Notre technologie analyse chaque événement en continu. Si quelque chose d'anormal se passe à 3h du matin, on agit."
+    },
+    "p3": {
+      "title": "On bloque, on explique, on recommande",
+      "desc": "Pas de logs incompréhensibles. Vous recevez un message clair en français : ce qui s'est passé, ce qu'on a fait, quoi vérifier."
+    },
+    "p4": {
+      "title": "Votre score de sécurité, chaque semaine",
+      "desc": "Un chiffre simple de 0 à 100. Vous voyez votre progression et recevez des recommandations concrètes."
+    },
+    "p5": {
+      "title": "Vos données restent en Suisse",
+      "desc": "Infrastructure hébergée à Genève chez Infomaniak. Aucune donnée ne transite par les États-Unis."
+    },
+    "p6": {
+      "title": "Conforme avant l'audit",
+      "desc": "Rapports de conformité LPD, RGPD et ISO 27001 générés automatiquement. Le dossier est prêt quand l'auditeur arrive."
+    }
+  },
+  "socialProof": {
+    "quote": "En 2025, un cabinet d'avocats genevois nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
+    "founder": "Fondateur, GWARD",
+    "adopted": "Déjà adopté par 50+ cabinets en Suisse romande"
+  },
+  "pricing": {
+    "title": "Des tarifs simples et transparents",
+    "essential": {
+      "name": "ESSENTIEL",
+      "target": "5-20 postes",
+      "price": "39 CHF",
+      "priceSub": "/poste/mois (bêta: 29 CHF)",
+      "f1": "Agent sur tous les postes (Windows, Mac, Linux)",
+      "f2": "Surveillance 24/7 avec triage automatique",
+      "f3": "Détection ransomware, malware, phishing",
+      "f4": "Score de posture hebdomadaire",
+      "f5": "Alertes en français",
+      "f6": "Rapport mensuel PDF",
+      "f7": "Support email < 4h",
+      "f8": "Sans engagement",
+      "cta": "Commencer"
+    },
+    "pro": {
+      "name": "PRO",
+      "target": "20-200 postes",
+      "price": "35 CHF",
+      "priceSub": "/poste/mois (dégressif dès 100 postes)",
+      "f1": "Tout l'Essentiel +",
+      "f2": "Supervision cloud (M365, Google Workspace)",
+      "f3": "Détection avancée (compromission AD, exfiltration)",
+      "f4": "Analyse comportementale",
+      "f5": "Rapports de conformité (LPD, RGPD, ISO 27001)",
+      "f6": "Support téléphonique 9h-18h",
+      "f7": "Onboarding accompagné",
+      "f8": "Engagement 12 mois",
+      "cta": "Nous contacter",
+      "badge": "Recommandé"
+    },
+    "enterprise": {
+      "name": "ENTERPRISE",
+      "target": "200+ postes",
+      "price": "Sur devis",
+      "priceSub": "Contactez-nous",
+      "f1": "Tout le Pro +",
+      "f2": "SLA garanti (détection < 5 min)",
+      "f3": "Astreinte 24/7",
+      "f4": "Threat hunting mensuel",
+      "f5": "Intégrations custom",
+      "f6": "Pentest annuel inclus",
+      "cta": "Demander un devis"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "step1": {
+      "title": "Installez l'agent",
+      "desc": "Téléchargez et installez en 15 minutes sur vos postes. Aucune configuration."
+    },
+    "step2": {
+      "title": "On surveille",
+      "desc": "Notre plateforme analyse en continu. Vous voyez votre score et vos alertes en temps réel."
+    },
+    "step3": {
+      "title": "On protège",
+      "desc": "Menace détectée ? On bloque, on vous explique, on recommande. Vous dormez tranquille."
+    }
+  },
+  "ctaSection": {
+    "title": "Prêt à protéger votre cabinet ?",
+    "subtext": "Demandez un audit gratuit de 15 minutes. On évalue votre niveau de protection et vous recevez votre premier score.",
+    "cta": "Demander mon audit gratuit",
+    "reassurance": "Gratuit, sans engagement, 15 minutes"
+  },
+  "footer": {
+    "tagline": "surveillance continue",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "security": "Sécurité",
+    "about": "À propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "privacy": "Politique de confidentialité",
+    "terms": "CGV",
+    "legalNotice": "Mentions légales",
+    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "hosted": "Hébergé en Suisse 🇨🇭"
+  }
+}
