@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'motion/react';
-import { Shield, Lock, Zap } from 'lucide-react';
+import { Shield, ShieldCheck, Lock, Zap } from 'lucide-react';
 import { Logo } from './Logo';
 
 export const Hero = () => {
@@ -50,7 +50,7 @@ export const Hero = () => {
             {/* Trust Badges */}
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-6 text-sm font-medium text-pine/80">
               <div className="flex items-center gap-2">
-                <span className="text-lg">🇨🇭</span>
+                <ShieldCheck className="w-4 h-4 text-emerald" />
                 <span>{t('hero.badge1')}</span>
               </div>
               <div className="flex items-center gap-2">
