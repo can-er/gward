@@ -7,10 +7,10 @@
   },
   "hero": {
     "headline": "Vos données sensibles, protégées 24/7",
-    "subheadline": "Le service de cyberprotection suisse pour les cabinets et les PME. Installé en 15 minutes, surveillé en continu, hébergé en Suisse.",
+    "subheadline": "Le service de cyberprotection pour les cabinets et les PME. Installé en 15 minutes, surveillé en continu.",
     "ctaPrimary": "Demander un audit gratuit",
     "ctaSecondary": "Voir comment ça marche",
-    "badge1": "🇨🇭 Hébergé en Suisse",
+    "badge1": "🛡️ Sécurité professionnelle",
     "badge2": "🔒 Conforme LPD",
     "badge3": "⚡ Installé en 15 min"
   },
@@ -63,8 +63,8 @@
       "desc": "Un chiffre simple de 0 à 100. Vous voyez votre progression et recevez des recommandations concrètes."
     },
     "p5": {
-      "title": "Vos données restent en Suisse",
-      "desc": "Infrastructure hébergée à Genève chez Infomaniak. Aucune donnée ne transite par les États-Unis."
+      "title": "Vos données restent protégées",
+      "desc": "Infrastructure hébergée en Europe. Vos données ne quittent jamais l'UE."
     },
     "p6": {
       "title": "Conforme avant l'audit",
@@ -72,17 +72,17 @@
     }
   },
   "socialProof": {
-    "quote": "En 2025, un cabinet d'avocats genevois nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
+    "quote": "En 2025, un cabinet d'avocats nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
     "founder": "Fondateur, GWARD",
-    "adopted": "Déjà adopté par 50+ cabinets en Suisse romande"
+    "adopted": "Déjà adopté par 50+ cabinets en Europe"
   },
   "pricing": {
     "title": "Des tarifs simples et transparents",
     "essential": {
       "name": "ESSENTIEL",
       "target": "5-20 postes",
-      "price": "39 CHF",
-      "priceSub": "/poste/mois (bêta: 29 CHF)",
+      "price": "39 EUR",
+      "priceSub": "/poste/mois (bêta: 29 EUR)",
       "f1": "Agent sur tous les postes (Windows, Mac, Linux)",
       "f2": "Surveillance 24/7 avec triage automatique",
       "f3": "Détection ransomware, malware, phishing",
@@ -96,7 +96,7 @@
     "pro": {
       "name": "PRO",
       "target": "20-200 postes",
-      "price": "35 CHF",
+      "price": "35 EUR",
       "priceSub": "/poste/mois (dégressif dès 100 postes)",
       "f1": "Tout l'Essentiel +",
       "f2": "Supervision cloud (M365, Google Workspace)",
@@ -159,6 +159,6 @@
     "terms": "CGV",
     "legalNotice": "Mentions légales",
     "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
-    "hosted": "Hébergé en Suisse 🇨🇭"
+    "hosted": "Hébergé en Europe 🇪🇺"
   }
 }

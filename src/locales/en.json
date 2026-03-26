@@ -7,10 +7,10 @@
   },
   "hero": {
     "headline": "Your sensitive data, protected 24/7",
-    "subheadline": "The Swiss cyber protection service for firms and SMBs. Installed in 15 minutes, continuously monitored, hosted in Switzerland.",
+    "subheadline": "The cyber protection service for firms and SMBs. Installed in 15 minutes, continuously monitored.",
     "ctaPrimary": "Request a free audit",
     "ctaSecondary": "See how it works",
-    "badge1": "🇨🇭 Hosted in Switzerland",
+    "badge1": "🛡️ Enterprise-grade security",
     "badge2": "🔒 FADP Compliant",
     "badge3": "⚡ Installed in 15 min"
   },
@@ -63,8 +63,8 @@
       "desc": "A simple number from 0 to 100. You see your progress and receive concrete recommendations."
     },
     "p5": {
-      "title": "Your data stays in Switzerland",
-      "desc": "Infrastructure hosted in Geneva at Infomaniak. No data transits through the United States."
+      "title": "Your data stays secure",
+      "desc": "Infrastructure hosted in Europe. Your data is protected and never leaves the EU."
     },
     "p6": {
       "title": "Compliant before the audit",
@@ -72,17 +72,17 @@
     }
   },
   "socialProof": {
-    "quote": "In 2025, a Geneva law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
+    "quote": "In 2025, a law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
     "founder": "Founder, GWARD",
-    "adopted": "Already adopted by 50+ firms in French-speaking Switzerland"
+    "adopted": "Already adopted by 50+ firms in Europe"
   },
   "pricing": {
     "title": "Simple and transparent pricing",
     "essential": {
       "name": "ESSENTIAL",
       "target": "5-20 endpoints",
-      "price": "39 CHF",
-      "priceSub": "/endpoint/month (beta: 29 CHF)",
+      "price": "39 EUR",
+      "priceSub": "/endpoint/month (beta: 29 EUR)",
       "f1": "Agent on all endpoints (Windows, Mac, Linux)",
       "f2": "24/7 monitoring with automatic triage",
       "f3": "Ransomware, malware, phishing detection",
@@ -96,7 +96,7 @@
     "pro": {
       "name": "PRO",
       "target": "20-200 endpoints",
-      "price": "35 CHF",
+      "price": "35 EUR",
       "priceSub": "/endpoint/month (volume discount from 100)",
       "f1": "Everything in Essential +",
       "f2": "Cloud supervision (M365, Google Workspace)",
@@ -159,6 +159,6 @@
     "terms": "Terms of Service",
     "legalNotice": "Legal Notice",
     "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
-    "hosted": "Hosted in Switzerland 🇨🇭"
+    "hosted": "Hosted in Europe 🇪🇺"
   }
 }

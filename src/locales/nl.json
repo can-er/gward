@@ -7,10 +7,10 @@
   },
   "hero": {
     "headline": "Uw gevoelige gegevens, 24/7 beschermd",
-    "subheadline": "De Zwitserse cyberbeschermingsdienst voor bedrijven en kmo's. Geïnstalleerd in 15 minuten, continu bewaakt, gehost in Zwitserland.",
+    "subheadline": "De cyberbeschermingsdienst voor bedrijven en kmo's. Geïnstalleerd in 15 minuten, continu bewaakt.",
     "ctaPrimary": "Vraag een gratis audit aan",
     "ctaSecondary": "Bekijk hoe het werkt",
-    "badge1": "🇨🇭 Gehost in Zwitserland",
+    "badge1": "🛡️ Professionele beveiliging",
     "badge2": "🔒 FADP Compliant",
     "badge3": "⚡ Geïnstalleerd in 15 min"
   },
@@ -63,8 +63,8 @@
       "desc": "Een eenvoudig getal van 0 tot 100. U ziet uw voortgang en ontvangt concrete aanbevelingen."
     },
     "p5": {
-      "title": "Uw gegevens blijven in Zwitserland",
-      "desc": "Infrastructuur gehost in Genève bij Infomaniak. Geen gegevens passeren de Verenigde Staten."
+      "title": "Uw gegevens blijven beschermd",
+      "desc": "Infrastructuur gehost in Europa. Uw gegevens verlaten nooit de EU."
     },
     "p6": {
       "title": "Compliant voor de audit",
@@ -72,17 +72,17 @@
     }
   },
   "socialProof": {
-    "quote": "In 2025 belde een advocatenkantoor uit Genève ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
+    "quote": "In 2025 belde een advocatenkantoor ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
     "founder": "Oprichtster, GWARD",
-    "adopted": "Al geadopteerd door 50+ bedrijven in Franstalig Zwitserland"
+    "adopted": "Al geadopteerd door 50+ bedrijven in Europa"
   },
   "pricing": {
     "title": "Eenvoudige en transparante prijzen",
     "essential": {
       "name": "ESSENTIEEL",
       "target": "5-20 werkplekken",
-      "price": "39 CHF",
-      "priceSub": "/werkplek/maand (bèta: 29 CHF)",
+      "price": "39 EUR",
+      "priceSub": "/werkplek/maand (bèta: 29 EUR)",
       "f1": "Agent op alle werkplekken (Windows, Mac, Linux)",
       "f2": "24/7 monitoring met automatische triage",
       "f3": "Detectie van ransomware, malware, phishing",
@@ -96,7 +96,7 @@
     "pro": {
       "name": "PRO",
       "target": "20-200 werkplekken",
-      "price": "35 CHF",
+      "price": "35 EUR",
       "priceSub": "/werkplek/maand (volumekorting vanaf 100)",
       "f1": "Alles in Essentieel +",
       "f2": "Cloud-supervisie (M365, Google Workspace)",
@@ -159,6 +159,6 @@
     "terms": "Servicevoorwaarden",
     "legalNotice": "Juridische kennisgeving",
     "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
-    "hosted": "Gehost in Zwitserland 🇨🇭"
+    "hosted": "Gehost in Europa 🇪🇺"
   }
 }
