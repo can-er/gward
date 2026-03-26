@@ -58,7 +58,7 @@ export const Footer = () => {
 
         <div className="border-t border-mist/50 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-pine/60">
-            {t('footer.copyright', { year: new Date().getFullYear() })}
+            © {new Date().getFullYear()} GWARD — <a href="https://le-dahu.ch" target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors underline">Le Dahu Sàrl</a> / <a href="https://ictlab.io" target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors underline">ICTLAB</a>
           </p>
           <div className="flex items-center gap-4 text-sm text-pine/60">
             <span>Made in Europe</span>
