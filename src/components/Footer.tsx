@@ -20,10 +20,9 @@ export const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-pine/80 leading-relaxed max-w-xs mb-6">
-              Le service de cyberprotection suisse pour les cabinets et les PME.
+              {t('hero.subheadline')}
             </p>
             <div className="inline-flex items-center gap-2 bg-page-bg border border-mist px-3 py-1.5 rounded-md text-xs font-medium text-forest">
-              <span>🇨🇭</span>
               <span>{t('footer.hosted')}</span>
             </div>
           </div>
@@ -59,10 +58,10 @@ export const Footer = () => {
 
         <div className="border-t border-mist/50 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-pine/60">
-            {t('footer.copyright')}
+            {t('footer.copyright', { year: new Date().getFullYear() })}
           </p>
           <div className="flex items-center gap-4 text-sm text-pine/60">
-            <span>Made in Switzerland</span>
+            <span>Made in Europe</span>
           </div>
         </div>
       </div>

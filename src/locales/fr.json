@@ -72,7 +72,7 @@
     }
   },
   "socialProof": {
-    "quote": "En 2025, un cabinet d'avocats nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
+    "quote": "En 2026, un cabinet d'avocats nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
     "founder": "Fondateur, GWARD",
     "adopted": "Déjà adopté par 50+ cabinets en Europe"
   },
@@ -158,7 +158,7 @@
     "privacy": "Politique de confidentialité",
     "terms": "CGV",
     "legalNotice": "Mentions légales",
-    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "copyright": "© {{year}} GWARD — Le Dahu Sàrl / ICTLAB",
     "hosted": "Hébergé en Europe 🇪🇺"
   }
 }

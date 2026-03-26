@@ -72,7 +72,7 @@
     }
   },
   "socialProof": {
-    "quote": "In 2025, a law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
+    "quote": "In 2026, a law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
     "founder": "Founder, GWARD",
     "adopted": "Already adopted by 50+ firms in Europe"
   },
@@ -158,7 +158,7 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "legalNotice": "Legal Notice",
-    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "copyright": "© {{year}} GWARD — Le Dahu Sàrl / ICTLAB",
     "hosted": "Hosted in Europe 🇪🇺"
   }
 }

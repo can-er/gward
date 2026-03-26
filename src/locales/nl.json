@@ -72,7 +72,7 @@
     }
   },
   "socialProof": {
-    "quote": "In 2025 belde een advocatenkantoor ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
+    "quote": "In 2026 belde een advocatenkantoor ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
     "founder": "Oprichtster, GWARD",
     "adopted": "Al geadopteerd door 50+ bedrijven in Europa"
   },
@@ -158,7 +158,7 @@
     "privacy": "Privacybeleid",
     "terms": "Servicevoorwaarden",
     "legalNotice": "Juridische kennisgeving",
-    "copyright": "© 2026 GWARD — Le Dahu Sàrl / ICTLAB",
+    "copyright": "© {{year}} GWARD — Le Dahu Sàrl / ICTLAB",
     "hosted": "Gehost in Europa 🇪🇺"
   }
 }
