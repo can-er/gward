@@ -46,7 +46,7 @@ export const Solution = () => {
               <div className="w-3 h-3 rounded-full bg-emerald/80" />
             </div>
             <div className="mx-auto bg-black/20 text-mist/50 text-xs px-3 py-1 rounded-md font-mono">
-              app.gward.ch/dashboard
+              {window.location.hostname}/dashboard
             </div>
           </div>
 
