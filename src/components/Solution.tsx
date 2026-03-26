@@ -79,7 +79,7 @@ export const Solution = () => {
               </div>
               <div className="mt-4 flex items-center gap-2 text-emerald text-sm font-medium">
                 <Activity className="w-4 h-4" />
-                <span>+5 pts (7 jours)</span>
+                <span>{t('solution.dashboard.scoreChange')}</span>
               </div>
             </div>
 
@@ -119,21 +119,21 @@ export const Solution = () => {
                     <div className="w-2 h-2 rounded-full bg-emerald mt-1.5" />
                     <div>
                       <p className="text-sm text-white">{t('solution.dashboard.alert1')}</p>
-                      <span className="text-xs text-mist/50">Il y a 2 heures</span>
+                      <span className="text-xs text-mist/50">{t('solution.dashboard.time1')}</span>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 rounded-full bg-emerald mt-1.5" />
                     <div>
                       <p className="text-sm text-white">{t('solution.dashboard.alert2')}</p>
-                      <span className="text-xs text-mist/50">Hier, 14:30</span>
+                      <span className="text-xs text-mist/50">{t('solution.dashboard.time2')}</span>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 rounded-full bg-yellow-400 mt-1.5" />
                     <div>
                       <p className="text-sm text-white">{t('solution.dashboard.alert3')}</p>
-                      <span className="text-xs text-mist/50">Hier, 09:15</span>
+                      <span className="text-xs text-mist/50">{t('solution.dashboard.time3')}</span>
                     </div>
                   </div>
                 </div>

@@ -41,7 +41,11 @@
       "activity": "Activité récente",
       "alert1": "Tentative de connexion bloquée (Russie)",
       "alert2": "Analyse comportementale : processus suspect isolé",
-      "alert3": "Mise à jour de sécurité recommandée"
+      "alert3": "Mise à jour de sécurité recommandée",
+      "scoreChange": "+5 pts (7 jours)",
+      "time1": "Il y a 2 heures",
+      "time2": "Hier, 14:30",
+      "time3": "Hier, 09:15"
     }
   },
   "promises": {
@@ -74,7 +78,13 @@
   "socialProof": {
     "quote": "En 2026, un cabinet d'avocats nous appelle en urgence. Leur serveur est bombardé par un botnet. On intervient, on bloque, aucune donnée perdue. Ce jour-là, on s'est demandé : pourquoi attendre l'attaque pour agir ? On a construit GWARD pour changer ça.",
     "founder": "Fondateur, GWARD",
-    "adopted": "Déjà adopté par 50+ cabinets en Europe"
+    "adopted": "Déjà adopté par 50+ cabinets en Europe",
+    "trust1Title": "Hébergement européen",
+    "trust1Desc": "Infrastructure 100% européenne",
+    "trust2Title": "Conforme LPD / RGPD",
+    "trust2Desc": "Prêt pour vos audits",
+    "trust3Title": "Technologies Open Source",
+    "trust3Desc": "Transparence et auditabilité"
   },
   "pricing": {
     "title": "Des tarifs simples et transparents",
@@ -145,7 +155,8 @@
     "reassurance": "Gratuit, sans engagement, 15 minutes"
   },
   "footer": {
-    "tagline": "surveillance continue",
+    "tagline": "Surveillance continue",
+    "madeIn": "Made in Europe",
     "product": "Produit",
     "company": "Entreprise",
     "legal": "Légal",

@@ -50,8 +50,8 @@ export const SocialProof = () => {
               <div className="w-12 h-12 rounded-full bg-page-bg flex items-center justify-center text-forest">
                 <Server className="w-6 h-6" />
               </div>
-              <h4 className="font-bold text-forest">Hébergé chez Infomaniak</h4>
-              <p className="text-sm text-pine">Infrastructure 100% suisse</p>
+              <h4 className="font-bold text-forest">{t('socialProof.trust1Title')}</h4>
+              <p className="text-sm text-pine">{t('socialProof.trust1Desc')}</p>
             </motion.div>
             
             <motion.div 
@@ -64,8 +64,8 @@ export const SocialProof = () => {
               <div className="w-12 h-12 rounded-full bg-page-bg flex items-center justify-center text-forest">
                 <ShieldCheck className="w-6 h-6" />
               </div>
-              <h4 className="font-bold text-forest">Conforme LPD / RGPD</h4>
-              <p className="text-sm text-pine">Prêt pour vos audits</p>
+              <h4 className="font-bold text-forest">{t('socialProof.trust2Title')}</h4>
+              <p className="text-sm text-pine">{t('socialProof.trust2Desc')}</p>
             </motion.div>
 
             <motion.div 
@@ -78,8 +78,8 @@ export const SocialProof = () => {
               <div className="w-12 h-12 rounded-full bg-page-bg flex items-center justify-center text-forest">
                 <Code className="w-6 h-6" />
               </div>
-              <h4 className="font-bold text-forest">Technologies Open Source</h4>
-              <p className="text-sm text-pine">Transparence et auditabilité</p>
+              <h4 className="font-bold text-forest">{t('socialProof.trust3Title')}</h4>
+              <p className="text-sm text-pine">{t('socialProof.trust3Desc')}</p>
             </motion.div>
           </div>
 

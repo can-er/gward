@@ -41,7 +41,11 @@
       "activity": "Recent activity",
       "alert1": "Blocked login attempt (Russia)",
       "alert2": "Behavioral analysis: suspicious process isolated",
-      "alert3": "Security update recommended"
+      "alert3": "Security update recommended",
+      "scoreChange": "+5 pts (7 days)",
+      "time1": "2 hours ago",
+      "time2": "Yesterday, 14:30",
+      "time3": "Yesterday, 09:15"
     }
   },
   "promises": {
@@ -74,7 +78,13 @@
   "socialProof": {
     "quote": "In 2026, a law firm called us in an emergency. Their server was bombarded by a botnet. We intervened, we blocked, no data lost. That day, we asked ourselves: why wait for the attack to act? We built GWARD to change that.",
     "founder": "Founder, GWARD",
-    "adopted": "Already adopted by 50+ firms in Europe"
+    "adopted": "Already adopted by 50+ firms in Europe",
+    "trust1Title": "European Hosting",
+    "trust1Desc": "100% European infrastructure",
+    "trust2Title": "FADP / GDPR Compliant",
+    "trust2Desc": "Ready for your audits",
+    "trust3Title": "Open Source Technologies",
+    "trust3Desc": "Transparency and auditability"
   },
   "pricing": {
     "title": "Simple and transparent pricing",
@@ -145,7 +155,8 @@
     "reassurance": "Free, no commitment, 15 minutes"
   },
   "footer": {
-    "tagline": "continuous surveillance",
+    "tagline": "Continuous surveillance",
+    "madeIn": "Made in Europe",
     "product": "Product",
     "company": "Company",
     "legal": "Legal",

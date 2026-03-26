@@ -61,7 +61,7 @@ export const Footer = () => {
             © {new Date().getFullYear()} GWARD — <a href="https://le-dahu.ch" target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors underline">Le Dahu Sàrl</a> / <a href="https://ictlab.io" target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors underline">ICTLAB</a>
           </p>
           <div className="flex items-center gap-4 text-sm text-pine/60">
-            <span>Made in Europe</span>
+            <span>{t('footer.madeIn')}</span>
           </div>
         </div>
       </div>

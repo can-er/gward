@@ -41,7 +41,11 @@
       "activity": "Recente activiteit",
       "alert1": "Geblokkeerde inlogpoging (Rusland)",
       "alert2": "Gedragsanalyse: verdacht proces geïsoleerd",
-      "alert3": "Beveiligingsupdate aanbevolen"
+      "alert3": "Beveiligingsupdate aanbevolen",
+      "scoreChange": "+5 pts (7 dagen)",
+      "time1": "2 uur geleden",
+      "time2": "Gisteren, 14:30",
+      "time3": "Gisteren, 09:15"
     }
   },
   "promises": {
@@ -74,7 +78,13 @@
   "socialProof": {
     "quote": "In 2026 belde een advocatenkantoor ons in een noodgeval. Hun server werd gebombardeerd door een botnet. We grepen in, we blokkeerden, geen gegevens verloren. Die dag vroegen we ons af: waarom wachten op de aanval om in te grijpen? We hebben GWARD gebouwd om dat te veranderen.",
     "founder": "Oprichtster, GWARD",
-    "adopted": "Al geadopteerd door 50+ bedrijven in Europa"
+    "adopted": "Al geadopteerd door 50+ bedrijven in Europa",
+    "trust1Title": "Europese hosting",
+    "trust1Desc": "100% Europese infrastructuur",
+    "trust2Title": "FADP / GDPR Compliant",
+    "trust2Desc": "Klaar voor uw audits",
+    "trust3Title": "Open Source Technologieën",
+    "trust3Desc": "Transparantie en controleerbaarheid"
   },
   "pricing": {
     "title": "Eenvoudige en transparante prijzen",
@@ -145,7 +155,8 @@
     "reassurance": "Gratis, zonder verbintenis, 15 minuten"
   },
   "footer": {
-    "tagline": "continue bewaking",
+    "tagline": "Continue bewaking",
+    "madeIn": "Made in Europe",
     "product": "Product",
     "company": "Bedrijf",
     "legal": "Legaal",

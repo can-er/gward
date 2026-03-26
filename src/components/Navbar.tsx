@@ -34,7 +34,7 @@ export const Navbar = () => {
           <Logo className="w-10 h-10" />
           <div className="flex flex-col">
             <span className="font-bold text-xl tracking-widest text-forest leading-none">GWARD</span>
-            <span className="text-[10px] text-pine tracking-wider uppercase">surveillance continue</span>
+            <span className="text-[10px] text-pine tracking-wider uppercase">{t('footer.tagline')}</span>
           </div>
         </div>
 
