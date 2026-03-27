@@ -32,7 +32,7 @@ export const Footer = () => {
             <h4 className="font-bold text-forest mb-6 uppercase tracking-wider text-sm">{t('footer.product')}</h4>
             <ul className="space-y-4">
               <li><a href="#features" className="text-pine hover:text-emerald transition-colors text-sm">{t('footer.features')}</a></li>
-              <li><a href="#pricing" className="text-pine hover:text-emerald transition-colors text-sm">{t('footer.pricing')}</a></li>
+              <li><a href="#waitlist" className="text-pine hover:text-emerald transition-colors text-sm">{t('footer.pricing')}</a></li>
               <li><a href="#" className="text-pine hover:text-emerald transition-colors text-sm">{t('footer.security')}</a></li>
             </ul>
           </div>

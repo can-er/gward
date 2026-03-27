@@ -43,7 +43,7 @@ export const Navbar = () => {
           <a href="#features" className="text-forest hover:text-emerald font-medium transition-colors">
             {t('navbar.features')}
           </a>
-          <a href="#pricing" className="text-forest hover:text-emerald font-medium transition-colors">
+          <a href="#waitlist" className="text-forest hover:text-emerald font-medium transition-colors">
             {t('navbar.pricing')}
           </a>
           <a href="#about" className="text-forest hover:text-emerald font-medium transition-colors">
@@ -95,7 +95,7 @@ export const Navbar = () => {
           <a href="#features" onClick={() => setIsMobileMenuOpen(false)} className="text-forest font-medium py-2 border-b border-mist/50">
             {t('navbar.features')}
           </a>
-          <a href="#pricing" onClick={() => setIsMobileMenuOpen(false)} className="text-forest font-medium py-2 border-b border-mist/50">
+          <a href="#waitlist" onClick={() => setIsMobileMenuOpen(false)} className="text-forest font-medium py-2 border-b border-mist/50">
             {t('navbar.pricing')}
           </a>
           <a href="#about" onClick={() => setIsMobileMenuOpen(false)} className="text-forest font-medium py-2 border-b border-mist/50">

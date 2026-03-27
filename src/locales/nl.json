@@ -1,7 +1,7 @@
 {
   "navbar": {
     "features": "Functies",
-    "pricing": "Prijzen",
+    "pricing": "Wachtlijst",
     "about": "Over ons",
     "cta": "Vraag een gratis audit aan"
   },
@@ -86,52 +86,57 @@
     "trust3Title": "Open Source Technologieën",
     "trust3Desc": "Transparantie en controleerbaarheid"
   },
-  "pricing": {
-    "title": "Eenvoudige en transparante prijzen",
-    "essential": {
-      "name": "ESSENTIEEL",
-      "target": "5-20 werkplekken",
-      "price": "39 EUR",
-      "priceSub": "/werkplek/maand (bèta: 29 EUR)",
-      "f1": "Agent op alle werkplekken (Windows, Mac, Linux)",
-      "f2": "24/7 monitoring met automatische triage",
-      "f3": "Detectie van ransomware, malware, phishing",
-      "f4": "Wekelijkse houdingsscore",
-      "f5": "Waarschuwingen in het Nederlands",
-      "f6": "Maandelijks PDF-rapport",
-      "f7": "E-mailondersteuning < 4u",
-      "f8": "Zonder verbintenis",
-      "cta": "Beginnen"
+  "waitlist": {
+    "title": "Schrijf u in op de wachtlijst",
+    "subtitle": "Wees een van de eersten om uw bedrijf te beschermen. Early access-leden krijgen prioritaire onboarding en exclusieve prijzen.",
+    "form": {
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "email": "Professioneel e-mailadres",
+      "company": "Bedrijfsnaam",
+      "role": "Uw rol",
+      "rolePlaceholder": "Selecteer uw rol",
+      "roleOptions": {
+        "ceo": "CEO / Oprichter",
+        "cto": "CTO / IT-directeur",
+        "ciso": "CISO / Beveiligingsmanager",
+        "it": "IT-beheerder",
+        "legal": "Juridisch / Compliance",
+        "other": "Anders"
+      },
+      "companySize": "Bedrijfsgrootte",
+      "companySizePlaceholder": "Selecteer grootte",
+      "companySizeOptions": {
+        "1-10": "1-10 medewerkers",
+        "11-50": "11-50 medewerkers",
+        "51-200": "51-200 medewerkers",
+        "201-500": "201-500 medewerkers",
+        "500+": "500+ medewerkers"
+      },
+      "industry": "Sector",
+      "industryPlaceholder": "Selecteer sector",
+      "industryOptions": {
+        "legal": "Juridisch / Advocatenkantoor",
+        "finance": "Financiën / Verzekeringen",
+        "health": "Gezondheidszorg",
+        "tech": "Technologie",
+        "consulting": "Advies",
+        "manufacturing": "Industrie",
+        "other": "Anders"
+      },
+      "currentSolution": "Heeft u een cybersecurity-oplossing?",
+      "currentSolutionOptions": {
+        "none": "Nee, niets aanwezig",
+        "antivirus": "Alleen basis-antivirus",
+        "managed": "Beheerde IT-provider",
+        "internal": "Intern IT-team",
+        "mssp": "Externe MSSP / SOC"
+      },
+      "submit": "Inschrijven op de wachtlijst",
+      "success": "U staat op de lijst! We nemen binnenkort contact op.",
+      "reassurance": "Zonder verbintenis. Geen spam. Alleen vroege toegang."
     },
-    "pro": {
-      "name": "PRO",
-      "target": "20-200 werkplekken",
-      "price": "35 EUR",
-      "priceSub": "/werkplek/maand (volumekorting vanaf 100)",
-      "f1": "Alles in Essentieel +",
-      "f2": "Cloud-supervisie (M365, Google Workspace)",
-      "f3": "Geavanceerde detectie (AD-compromis, exfiltratie)",
-      "f4": "Gedragsanalyse",
-      "f5": "Nalevingsrapporten (FADP, GDPR, ISO 27001)",
-      "f6": "Telefonische ondersteuning 9u-18u",
-      "f7": "Begeleide onboarding",
-      "f8": "Verbintenis van 12 maanden",
-      "cta": "Neem contact op",
-      "badge": "Aanbevolen"
-    },
-    "enterprise": {
-      "name": "ENTERPRISE",
-      "target": "200+ werkplekken",
-      "price": "Op maat",
-      "priceSub": "Neem contact op",
-      "f1": "Alles in Pro +",
-      "f2": "Gegarandeerde SLA (detectie < 5 min)",
-      "f3": "24/7 stand-by",
-      "f4": "Maandelijkse threat hunting",
-      "f5": "Aangepaste integraties",
-      "f6": "Jaarlijkse pentest inbegrepen",
-      "cta": "Vraag een offerte aan"
-    }
+    "badge": "Beperkte vroege toegang"
   },
   "howItWorks": {
     "title": "Hoe het werkt",
@@ -161,7 +166,7 @@
     "company": "Bedrijf",
     "legal": "Legaal",
     "features": "Functies",
-    "pricing": "Prijzen",
+    "pricing": "Wachtlijst",
     "security": "Beveiliging",
     "about": "Over ons",
     "contact": "Contact",

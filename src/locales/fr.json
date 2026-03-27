@@ -1,7 +1,7 @@
 {
   "navbar": {
     "features": "Fonctionnalités",
-    "pricing": "Tarifs",
+    "pricing": "Liste d'attente",
     "about": "À propos",
     "cta": "Demander un audit gratuit"
   },
@@ -86,52 +86,57 @@
     "trust3Title": "Technologies Open Source",
     "trust3Desc": "Transparence et auditabilité"
   },
-  "pricing": {
-    "title": "Des tarifs simples et transparents",
-    "essential": {
-      "name": "ESSENTIEL",
-      "target": "5-20 postes",
-      "price": "39 EUR",
-      "priceSub": "/poste/mois (bêta: 29 EUR)",
-      "f1": "Agent sur tous les postes (Windows, Mac, Linux)",
-      "f2": "Surveillance 24/7 avec triage automatique",
-      "f3": "Détection ransomware, malware, phishing",
-      "f4": "Score de posture hebdomadaire",
-      "f5": "Alertes en français",
-      "f6": "Rapport mensuel PDF",
-      "f7": "Support email < 4h",
-      "f8": "Sans engagement",
-      "cta": "Commencer"
+  "waitlist": {
+    "title": "Rejoignez la liste d'attente",
+    "subtitle": "Soyez parmi les premiers à protéger votre entreprise. Les membres en accès anticipé bénéficient d'un onboarding prioritaire et de tarifs exclusifs.",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email professionnel",
+      "company": "Nom de l'entreprise",
+      "role": "Votre rôle",
+      "rolePlaceholder": "Sélectionnez votre rôle",
+      "roleOptions": {
+        "ceo": "CEO / Fondateur",
+        "cto": "CTO / Directeur IT",
+        "ciso": "CISO / Responsable sécurité",
+        "it": "Administrateur IT",
+        "legal": "Juridique / Conformité",
+        "other": "Autre"
+      },
+      "companySize": "Taille de l'entreprise",
+      "companySizePlaceholder": "Sélectionnez la taille",
+      "companySizeOptions": {
+        "1-10": "1-10 employés",
+        "11-50": "11-50 employés",
+        "51-200": "51-200 employés",
+        "201-500": "201-500 employés",
+        "500+": "500+ employés"
+      },
+      "industry": "Secteur d'activité",
+      "industryPlaceholder": "Sélectionnez le secteur",
+      "industryOptions": {
+        "legal": "Juridique / Cabinet d'avocats",
+        "finance": "Finance / Assurance",
+        "health": "Santé",
+        "tech": "Technologie",
+        "consulting": "Conseil",
+        "manufacturing": "Industrie",
+        "other": "Autre"
+      },
+      "currentSolution": "Avez-vous une solution de cybersécurité ?",
+      "currentSolutionOptions": {
+        "none": "Non, rien en place",
+        "antivirus": "Antivirus basique uniquement",
+        "managed": "Prestataire IT géré",
+        "internal": "Équipe IT interne",
+        "mssp": "MSSP / SOC externe"
+      },
+      "submit": "Rejoindre la liste d'attente",
+      "success": "Vous êtes inscrit ! Nous vous contacterons bientôt.",
+      "reassurance": "Sans engagement. Pas de spam. Juste un accès anticipé."
     },
-    "pro": {
-      "name": "PRO",
-      "target": "20-200 postes",
-      "price": "35 EUR",
-      "priceSub": "/poste/mois (dégressif dès 100 postes)",
-      "f1": "Tout l'Essentiel +",
-      "f2": "Supervision cloud (M365, Google Workspace)",
-      "f3": "Détection avancée (compromission AD, exfiltration)",
-      "f4": "Analyse comportementale",
-      "f5": "Rapports de conformité (LPD, RGPD, ISO 27001)",
-      "f6": "Support téléphonique 9h-18h",
-      "f7": "Onboarding accompagné",
-      "f8": "Engagement 12 mois",
-      "cta": "Nous contacter",
-      "badge": "Recommandé"
-    },
-    "enterprise": {
-      "name": "ENTERPRISE",
-      "target": "200+ postes",
-      "price": "Sur devis",
-      "priceSub": "Contactez-nous",
-      "f1": "Tout le Pro +",
-      "f2": "SLA garanti (détection < 5 min)",
-      "f3": "Astreinte 24/7",
-      "f4": "Threat hunting mensuel",
-      "f5": "Intégrations custom",
-      "f6": "Pentest annuel inclus",
-      "cta": "Demander un devis"
-    }
+    "badge": "Accès anticipé limité"
   },
   "howItWorks": {
     "title": "Comment ça marche",
@@ -161,7 +166,7 @@
     "company": "Entreprise",
     "legal": "Légal",
     "features": "Fonctionnalités",
-    "pricing": "Tarifs",
+    "pricing": "Liste d'attente",
     "security": "Sécurité",
     "about": "À propos",
     "contact": "Contact",

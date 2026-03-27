@@ -1,7 +1,7 @@
 {
   "navbar": {
     "features": "Features",
-    "pricing": "Pricing",
+    "pricing": "Waitlist",
     "about": "About",
     "cta": "Request a free audit"
   },
@@ -86,52 +86,57 @@
     "trust3Title": "Open Source Technologies",
     "trust3Desc": "Transparency and auditability"
   },
-  "pricing": {
-    "title": "Simple and transparent pricing",
-    "essential": {
-      "name": "ESSENTIAL",
-      "target": "5-20 endpoints",
-      "price": "39 EUR",
-      "priceSub": "/endpoint/month (beta: 29 EUR)",
-      "f1": "Agent on all endpoints (Windows, Mac, Linux)",
-      "f2": "24/7 monitoring with automatic triage",
-      "f3": "Ransomware, malware, phishing detection",
-      "f4": "Weekly posture score",
-      "f5": "Alerts in English",
-      "f6": "Monthly PDF report",
-      "f7": "Email support < 4h",
-      "f8": "No commitment",
-      "cta": "Get started"
+  "waitlist": {
+    "title": "Join the waitlist",
+    "subtitle": "Be among the first to protect your business. Early access members get priority onboarding and exclusive pricing.",
+    "form": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Professional email",
+      "company": "Company name",
+      "role": "Your role",
+      "rolePlaceholder": "Select your role",
+      "roleOptions": {
+        "ceo": "CEO / Founder",
+        "cto": "CTO / IT Director",
+        "ciso": "CISO / Security Manager",
+        "it": "IT Administrator",
+        "legal": "Legal / Compliance",
+        "other": "Other"
+      },
+      "companySize": "Company size",
+      "companySizePlaceholder": "Select size",
+      "companySizeOptions": {
+        "1-10": "1-10 employees",
+        "11-50": "11-50 employees",
+        "51-200": "51-200 employees",
+        "201-500": "201-500 employees",
+        "500+": "500+ employees"
+      },
+      "industry": "Industry",
+      "industryPlaceholder": "Select industry",
+      "industryOptions": {
+        "legal": "Legal / Law firm",
+        "finance": "Finance / Insurance",
+        "health": "Healthcare",
+        "tech": "Technology",
+        "consulting": "Consulting",
+        "manufacturing": "Manufacturing",
+        "other": "Other"
+      },
+      "currentSolution": "Do you currently have a cybersecurity solution?",
+      "currentSolutionOptions": {
+        "none": "No, nothing in place",
+        "antivirus": "Basic antivirus only",
+        "managed": "Managed IT provider",
+        "internal": "Internal IT team",
+        "mssp": "External MSSP / SOC"
+      },
+      "submit": "Join the waitlist",
+      "success": "You're on the list! We'll be in touch soon.",
+      "reassurance": "No commitment. No spam. Just early access."
     },
-    "pro": {
-      "name": "PRO",
-      "target": "20-200 endpoints",
-      "price": "35 EUR",
-      "priceSub": "/endpoint/month (volume discount from 100)",
-      "f1": "Everything in Essential +",
-      "f2": "Cloud supervision (M365, Google Workspace)",
-      "f3": "Advanced detection (AD compromise, exfiltration)",
-      "f4": "Behavioral analysis",
-      "f5": "Compliance reports (FADP, GDPR, ISO 27001)",
-      "f6": "Phone support 9am-6pm",
-      "f7": "Guided onboarding",
-      "f8": "12-month commitment",
-      "cta": "Contact us",
-      "badge": "Recommended"
-    },
-    "enterprise": {
-      "name": "ENTERPRISE",
-      "target": "200+ endpoints",
-      "price": "Custom",
-      "priceSub": "Contact us",
-      "f1": "Everything in Pro +",
-      "f2": "Guaranteed SLA (detection < 5 min)",
-      "f3": "24/7 on-call",
-      "f4": "Monthly threat hunting",
-      "f5": "Custom integrations",
-      "f6": "Annual pentest included",
-      "cta": "Request a quote"
-    }
+    "badge": "Limited early access"
   },
   "howItWorks": {
     "title": "How it works",
@@ -161,7 +166,7 @@
     "company": "Company",
     "legal": "Legal",
     "features": "Features",
-    "pricing": "Pricing",
+    "pricing": "Waitlist",
     "security": "Security",
     "about": "About",
     "contact": "Contact",
