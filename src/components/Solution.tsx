@@ -51,7 +51,7 @@ export const Solution = () => {
           </div>
 
           {/* Dashboard Content */}
-          <div className="p-6 md:p-8 grid md:grid-cols-3 gap-6">
+          <div className="p-4 md:p-8 grid md:grid-cols-3 gap-4 md:gap-6">
             
             {/* Score Gauge */}
             <div className="md:col-span-1 bg-white/5 rounded-xl p-6 border border-white/5 flex flex-col items-center justify-center">
@@ -87,32 +87,32 @@ export const Solution = () => {
             <div className="md:col-span-2 flex flex-col gap-6">
               
               {/* Top KPIs */}
-              <div className="grid grid-cols-3 gap-4">
-                <div className="bg-white/5 rounded-xl p-4 border border-white/5">
-                  <div className="flex items-center gap-2 text-mist/70 text-xs uppercase tracking-wider mb-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald" />
-                    {t('solution.dashboard.protected')}
+              <div className="grid grid-cols-3 gap-2 md:gap-4">
+                <div className="bg-white/5 rounded-xl p-3 md:p-4 border border-white/5 min-w-0">
+                  <div className="flex items-center gap-1 md:gap-2 text-mist/70 text-[10px] md:text-xs uppercase tracking-wider mb-2">
+                    <ShieldCheck className="w-3 h-3 md:w-4 md:h-4 text-emerald shrink-0" />
+                    <span className="truncate">{t('solution.dashboard.protected')}</span>
                   </div>
-                  <div className="text-2xl font-bold text-white">18</div>
+                  <div className="text-xl md:text-2xl font-bold text-white">18</div>
                 </div>
-                <div className="bg-white/5 rounded-xl p-4 border border-white/5">
-                  <div className="flex items-center gap-2 text-mist/70 text-xs uppercase tracking-wider mb-2">
-                    <AlertTriangle className="w-4 h-4 text-alert-red" />
-                    {t('solution.dashboard.threats')}
+                <div className="bg-white/5 rounded-xl p-3 md:p-4 border border-white/5 min-w-0">
+                  <div className="flex items-center gap-1 md:gap-2 text-mist/70 text-[10px] md:text-xs uppercase tracking-wider mb-2">
+                    <AlertTriangle className="w-3 h-3 md:w-4 md:h-4 text-alert-red shrink-0" />
+                    <span className="truncate">{t('solution.dashboard.threats')}</span>
                   </div>
-                  <div className="text-2xl font-bold text-white">0</div>
+                  <div className="text-xl md:text-2xl font-bold text-white">0</div>
                 </div>
-                <div className="bg-white/5 rounded-xl p-4 border border-white/5">
-                  <div className="flex items-center gap-2 text-mist/70 text-xs uppercase tracking-wider mb-2">
-                    <CheckCircle2 className="w-4 h-4 text-yellow-400" />
-                    {t('solution.dashboard.actions')}
+                <div className="bg-white/5 rounded-xl p-3 md:p-4 border border-white/5 min-w-0">
+                  <div className="flex items-center gap-1 md:gap-2 text-mist/70 text-[10px] md:text-xs uppercase tracking-wider mb-2">
+                    <CheckCircle2 className="w-3 h-3 md:w-4 md:h-4 text-yellow-400 shrink-0" />
+                    <span className="truncate">{t('solution.dashboard.actions')}</span>
                   </div>
-                  <div className="text-2xl font-bold text-white">2</div>
+                  <div className="text-xl md:text-2xl font-bold text-white">2</div>
                 </div>
               </div>
 
               {/* Activity Feed */}
-              <div className="bg-white/5 rounded-xl p-6 border border-white/5 flex-1">
+              <div className="bg-white/5 rounded-xl p-4 md:p-6 border border-white/5 flex-1">
                 <h4 className="text-mist text-sm font-medium mb-4 uppercase tracking-wider">{t('solution.dashboard.activity')}</h4>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
