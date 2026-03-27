@@ -3,12 +3,12 @@
     "features": "Fonctionnalités",
     "pricing": "Liste d'attente",
     "about": "À propos",
-    "cta": "Demander un audit gratuit"
+    "cta": "Rejoindre la waitlist"
   },
   "hero": {
     "headline": "Vos données sensibles, protégées 24/7",
     "subheadline": "Le service de cyberprotection pour les cabinets et les PME. Installé en 15 minutes, surveillé en continu.",
-    "ctaPrimary": "Demander un audit gratuit",
+    "ctaPrimary": "Rejoindre la waitlist",
     "ctaSecondary": "Voir comment ça marche",
     "badge1": "Sécurité professionnelle",
     "badge2": "Conforme LPD",
@@ -155,9 +155,9 @@
   },
   "ctaSection": {
     "title": "Prêt à protéger votre cabinet ?",
-    "subtext": "Demandez un audit gratuit de 15 minutes. On évalue votre niveau de protection et vous recevez votre premier score.",
-    "cta": "Demander mon audit gratuit",
-    "reassurance": "Gratuit, sans engagement, 15 minutes"
+    "subtext": "Rejoignez la liste d'attente et soyez parmi les premiers à bénéficier de la protection GWARD. Accès anticipé, onboarding prioritaire.",
+    "cta": "Rejoindre la waitlist",
+    "reassurance": "Gratuit, sans engagement, accès anticipé"
   },
   "footer": {
     "tagline": "Surveillance continue",

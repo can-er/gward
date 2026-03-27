@@ -7,7 +7,7 @@ export const CTASection = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="py-24 bg-forest text-white relative overflow-hidden" id="audit">
+    <section className="py-24 bg-forest text-white relative overflow-hidden" id="cta">
       {/* Background Elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[800px] bg-emerald/20 rounded-full blur-[100px] opacity-50" />
@@ -41,10 +41,8 @@ export const CTASection = () => {
             transition={{ delay: 0.2 }}
             className="flex flex-col items-center gap-4"
           >
-            <a 
-              href="https://calendly.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
+            <a
+              href="#waitlist"
               className="group flex items-center gap-3 bg-emerald hover:bg-mint text-white hover:text-forest px-8 py-4 rounded-full font-bold text-lg transition-all duration-300 shadow-xl hover:shadow-2xl"
             >
               <span>{t('ctaSection.cta')}</span>

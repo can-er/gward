@@ -3,12 +3,12 @@
     "features": "Features",
     "pricing": "Waitlist",
     "about": "About",
-    "cta": "Request a free audit"
+    "cta": "Join the waitlist"
   },
   "hero": {
     "headline": "Your sensitive data, protected 24/7",
     "subheadline": "The cyber protection service for firms and SMBs. Installed in 15 minutes, continuously monitored.",
-    "ctaPrimary": "Request a free audit",
+    "ctaPrimary": "Join the waitlist",
     "ctaSecondary": "See how it works",
     "badge1": "Enterprise-grade security",
     "badge2": "FADP Compliant",
@@ -155,9 +155,9 @@
   },
   "ctaSection": {
     "title": "Ready to protect your firm?",
-    "subtext": "Request a free 15-minute audit. We evaluate your protection level and you receive your first score.",
-    "cta": "Request my free audit",
-    "reassurance": "Free, no commitment, 15 minutes"
+    "subtext": "Join the waitlist now and be among the first to benefit from GWARD protection. Early access, priority onboarding.",
+    "cta": "Join the waitlist",
+    "reassurance": "Free, no commitment, early access"
   },
   "footer": {
     "tagline": "Continuous surveillance",

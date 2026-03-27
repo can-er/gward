@@ -33,9 +33,9 @@ export const Hero = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-4 mb-12">
-              <a 
-                href="#audit" 
-                className="w-full sm:w-auto bg-emerald hover:bg-pine text-white px-8 py-4 rounded-full font-medium text-lg transition-all duration-300 shadow-lg hover:shadow-xl text-center"
+              <a
+                href="#waitlist"
+                className="w-full sm:w-auto bg-emerald hover:bg-pine text-white px-10 py-5 rounded-full font-bold text-xl transition-all duration-300 shadow-lg hover:shadow-2xl text-center animate-pulse hover:animate-none ring-2 ring-emerald/30 ring-offset-2 ring-offset-page-bg"
               >
                 {t('hero.ctaPrimary')}
               </a>

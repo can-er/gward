@@ -69,8 +69,8 @@ export const Navbar = () => {
           </div>
 
           <a 
-            href="#audit" 
-            className="bg-emerald hover:bg-pine text-white px-6 py-2.5 rounded-full font-medium transition-all duration-300 shadow-sm hover:shadow-md"
+            href="#waitlist" 
+            className="bg-emerald hover:bg-pine text-white px-6 py-2.5 rounded-full font-bold transition-all duration-300 shadow-md hover:shadow-lg animate-pulse hover:animate-none"
           >
             {t('navbar.cta')}
           </a>
@@ -109,7 +109,7 @@ export const Navbar = () => {
           </div>
 
           <a 
-            href="#audit" 
+            href="#waitlist" 
             onClick={() => setIsMobileMenuOpen(false)}
             className="bg-emerald text-white text-center px-6 py-3 rounded-full font-medium mt-2"
           >

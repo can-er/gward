@@ -3,12 +3,12 @@
     "features": "Functies",
     "pricing": "Wachtlijst",
     "about": "Over ons",
-    "cta": "Vraag een gratis audit aan"
+    "cta": "Schrijf u in op de wachtlijst"
   },
   "hero": {
     "headline": "Uw gevoelige gegevens, 24/7 beschermd",
     "subheadline": "De cyberbeschermingsdienst voor bedrijven en kmo's. Geïnstalleerd in 15 minuten, continu bewaakt.",
-    "ctaPrimary": "Vraag een gratis audit aan",
+    "ctaPrimary": "Schrijf u in op de wachtlijst",
     "ctaSecondary": "Bekijk hoe het werkt",
     "badge1": "Professionele beveiliging",
     "badge2": "FADP Compliant",
@@ -155,9 +155,9 @@
   },
   "ctaSection": {
     "title": "Klaar om uw bedrijf te beschermen?",
-    "subtext": "Vraag een gratis audit van 15 minuten aan. We evalueren uw beschermingsniveau en u ontvangt uw eerste score.",
-    "cta": "Vraag mijn gratis audit aan",
-    "reassurance": "Gratis, zonder verbintenis, 15 minuten"
+    "subtext": "Schrijf u in op de wachtlijst en wees een van de eersten die profiteert van GWARD-bescherming. Vroege toegang, prioritaire onboarding.",
+    "cta": "Schrijf u in op de wachtlijst",
+    "reassurance": "Gratis, zonder verbintenis, vroege toegang"
   },
   "footer": {
     "tagline": "Continue bewaking",
